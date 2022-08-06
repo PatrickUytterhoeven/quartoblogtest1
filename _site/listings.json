@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/new_blog_post/blogpost1.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/new_blog_post/blogpost1.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]

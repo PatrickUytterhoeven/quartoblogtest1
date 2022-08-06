@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Patrick Uytterhoeven"
+  description: " Mijn blog"
+  navbar:
+    right:
+      - text: Blog
+      - href: blog.qmd
+      - text: Archive
+      - href: archive.qmd
+      - text: Producten
+      - href: product.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: theme.scss
+
+editor: visual
+
